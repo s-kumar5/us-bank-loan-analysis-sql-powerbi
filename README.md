@@ -1,5 +1,3 @@
-# us-bank-loan-analysis-sql-powerbi
-
 # Bank Loan Analysis Dashboard – SQL Server & Power BI
 
 A complete project for analyzing U.S. bank loan performance using **SQL Server** and **Power BI**.  
