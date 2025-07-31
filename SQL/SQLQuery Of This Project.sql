@@ -137,4 +137,4 @@ where grade = 'a' group by purpose order by purpose;
 
 select home_ownership as Home_ownership ,COUNT(id) as Total_loan_applications,SUM(loan_amount) as Total_funded_amount 
 ,SUM(total_payment) as Total_amount_received from Bank_loan_data 
-where grade = 'a' and address_state = 'ca' group by home_ownership order by count(ID) ;
+where grade = 'a' and address_state = 'ca' Group by home_ownership order by count(ID) ;
