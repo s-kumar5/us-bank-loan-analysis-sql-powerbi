@@ -5,13 +5,13 @@ The dashboard enables data-driven decision-making through deep insights into bor
 
 ---
 
-## 📌 Problem Statement
+##  Problem Statement
 
 The current approach to loan data analysis lacks depth and interactivity, limiting the ability to derive meaningful insights. Traditional reporting fails to give a holistic view of borrower demographics, repayment performance, and regional trends.
 
 ---
 
-## 🎯 Objective
+##  Objective
 
 To build a suite of dynamic and interactive dashboards that:
 - Analyze loan applications, interest rates, and repayment patterns
@@ -30,7 +30,7 @@ To build a suite of dynamic and interactive dashboards that:
 
 ---
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 - SQL Server  
 - Power BI  
@@ -38,7 +38,7 @@ To build a suite of dynamic and interactive dashboards that:
 
 ---
 
-## 📊 Key Dashboard Features
+##  Key Dashboard Features
 
 - Total & Monthly Loan Applications
 - Funded vs Received Amount (MTD, PMTD)
@@ -53,13 +53,13 @@ To build a suite of dynamic and interactive dashboards that:
 
 ---
 
-## 🧩 Data Model
+##  Data Model
 
 ![Data Model](Documentation/Data_Model_Screenshot.png)
 
 ---
 
-## 🧠 SQL Highlights
+##  SQL Highlights
 
 - Window functions and aggregations
 - Monthly performance tracking
